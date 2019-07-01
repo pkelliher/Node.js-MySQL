@@ -1,2 +1,2 @@
 # Node.js-MySQL
-10: Node.js &amp; MySQL
+10: Bamazon App
