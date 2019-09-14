@@ -85,15 +85,15 @@ Created a JavaScript file titled bamazonCustomer.js which requires the MySQL, In
 
 1. The bamazonCustomer.js displays the table containing all the columns and associated data, it then prompts the user to select an item number associated with the item_id:
  
-![bamazonOne](./images/bamazonOne.png)
+![bamazonOne](./Images/bamazonOne.png)
 
 2. Displays the item selected, then prompts for quantity desired:
 
-![bamazonTwo](./images/bamazonTwo.png)
+![bamazonTwo](./Images/bamazonTwo.png)
 
 3. Updates the database, reducing the quantity specified for the item slected:
 
-![bamazon3](./images/bamazon3.png)
+![bamazon3](./Images/bamazon3.png)
 
 Here is the bamazonCustomer.js code with corresponding comments:
 
